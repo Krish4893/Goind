@@ -1,0 +1,162 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+header{
+    width: 100%;
+    background-color:white;
+    padding: auto;
+    height: 40px;
+  
+    
+}
+.goind{
+    color: rgb(33, 95, 165);
+    padding: 5px;
+    font-size: 25px; 
+    display: inline-block;
+}
+.content{
+    font-size: 15px;
+    display: inline-block;
+}
+ul{
+    margin-left: 350px;
+}
+ul li ,ul li a{
+    display: inline-block;
+    margin: 5px;
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+}
+  a {
+    text-decoration: none;
+    color:rgb(33, 95, 165) ;
+}
+.login{
+    border: none;
+    background-color: white;
+    margin-left: 400px;
+    font-size: 15px;
+}
+.searchjob{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    height: 350px;
+    background-image: url(https://venngage-wordpress.s3.amazonaws.com/uploads/2022/09/business-background-16.png);
+}
+.searchjobhere{
+    font-size: 40px;
+    padding-top: 60px;
+    margin: auto;
+}
+.search{
+    padding-top: 15px;
+}
+#search{
+    width: 250px;
+    padding: 13px;
+    border: none;
+    border-radius: 20px 0px 0px 20px;
+}
+#subscribe{
+    margin-left: -5px;
+    width: 100px;
+    padding: 13px;
+    border: none;
+    border-radius: 0px 20px 20px 0px;
+    
+}
+button{
+    background-color: rgb(33, 95, 165)
+}
+#one{
+    color: white;
+}
+p{
+    padding-top: 25px;
+}
+.Discover{
+    width: 150px;
+    padding: 10px;
+    margin-top: 40px;
+    border: none;
+    
+}
+.main{
+    display: block;
+}
+.left{
+    display: inline-block;
+    width: 500px;
+    margin-left: 80px;
+    margin-top: 80px;
+    
+}
+.right{
+    float: right;
+    margin-right: 80px;
+   
+}
+
+img{
+    width: 600px;
+    height: 40vh;
+    margin-top: 30px;
+}
+.Apply{
+    margin-top: 30px;
+    padding: 10px;
+    width: 100px;
+    border: none;
+}
+.ind{
+    display: block;
+}
+.ltwo{
+    float: left;
+    margin-left: 80px;
+}
+.rtwo{
+    display: inline-block;
+    width: 500px;
+    margin-left: 160px;
+    margin-top: 80px;
+}
+.sub{
+   background-color:  rgb(33, 95, 165);
+   margin: 10px;
+   height: 150px;
+   width: 100%;
+}
+h3{
+    color: white;
+    padding-top: 15px;
+    margin-left: 150px;
+}
+.lortwo{
+    color: white;
+    padding-top: 15px;
+    margin-left: 150px;
+}
+.email{
+    margin-left: 130px;
+    padding: 15px;
+}
+#email{
+    width: 500px;
+    padding: 7px;
+    border: none;
+    border-radius: 20px;
+}
+#sub{
+    width: 150px;
+    padding: 5px;
+    border: none;
+    border-radius: 20px;
+    margin-left: -150px;
+    color: white;
+}
+
